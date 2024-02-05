@@ -2,9 +2,7 @@
 
 This project is a simple HTTP server built with Express.
 
-## Getting Started
-
-### Prerequisites
+## Prerequisites
 
 - Node.js installed on your machine.
 
@@ -19,9 +17,6 @@ This project is a simple HTTP server built with Express.
 3. Install dependencies:
    npm install
 
-2. Navigate to the project directory:
-   cd simple-http-server
-
 ### Configuration
 
 - Create a .env file in the root of the project and define the PORT variable
@@ -29,3 +24,13 @@ This project is a simple HTTP server built with Express.
 ### Running The App
 
 - npm start
+
+### Dependencies
+
+1. dotenv:
+    Loads environment variables from .env file
+
+2. express:
+    Fast, unopinionated, minimalist web framework for Node.js.
+
+
